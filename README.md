@@ -1,7 +1,7 @@
 # Hi there 👋
 # ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wang2206&show_icons=true&theme=radical)
 
-**wang2206/wang2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mr.Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
